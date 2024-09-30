@@ -4,9 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a backend developer
 -------------------------
 
-* 🌍  I'm based in Warsaw, Poland
-* 🖥️  See my portfolio at [mateuszurbanek.com](http://mateuszurbanek.com)
-* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
